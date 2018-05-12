@@ -1,8 +1,11 @@
 _repo: '---_7215'
-_version: 0.0.1
+_version: 0.1.0
 alternative_title:
 - Deng Xizi
 - Deng Xi Zi (Thought of Deng Xi Zi)
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Deng, Xi
@@ -13,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2377
     wikipedia: http://zh.wikipedia.org/wiki/%E9%84%A7%E6%9E%90
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/7215#---
 gutenberg_issued: '2005-01-01'
 gutenberg_type: Text
 identifiers:
